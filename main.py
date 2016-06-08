@@ -1,5 +1,5 @@
-from classes import *
-from functions import *
+from classesV1 import *
+from functionsV1 import *
 
 
 Kelroy = Hero("Kelroy", "Mage", [10,9,11], "Fire") #Hero instance with name and other properties passes in
