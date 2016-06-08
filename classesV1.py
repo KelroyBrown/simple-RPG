@@ -1,4 +1,4 @@
-from functions import *
+from functionsV1 import *
 
 # Hero class
 class Hero:
