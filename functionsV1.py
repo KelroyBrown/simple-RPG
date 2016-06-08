@@ -1,4 +1,4 @@
-import classes
+import classesV1
 from random import randint
 
 #battle system
