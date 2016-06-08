@@ -1,3 +1,7 @@
+# Simple RPG Version 1
+# By Kelroy Brown - KelroyBrown.com - June 2016
+# Learning Python by creating a simple text-based RPG
+
 import classesV1
 from random import randint
 
